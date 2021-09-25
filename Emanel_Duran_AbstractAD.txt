@@ -6,3 +6,6 @@
 
 
 first changes in the master branch
+
+
+changes from issues_1234 branch
