@@ -6,3 +6,6 @@
 
 
 first changes in the master branch
+
+
+second changes in the master branch, after creating the issue_1234 branch
